@@ -1,0 +1,43 @@
+Momentum = 0 
+
+	Batch: 
+
+Train error: 0.35 
+
+		Test error: 1.39 
+
+	Stochastic: 
+
+		Train error: 0.35 
+
+		Test error: 1.39 
+
+Momentum = 0.5 
+
+	Batch: 
+
+		Train error: 0.00 
+
+		Test error: 1.39 
+
+	Stochastic: 
+
+		Train error: 0.35 
+
+		Test error: 1.39 
+
+Momentum = 0.9 
+
+	Batch: 
+
+		Train error: 0.00 
+
+		Test error: 1.39 
+
+	Stochastic: 
+
+		Train error: 0.00 
+
+		Test error: 1.39 
+
+Источники: 
